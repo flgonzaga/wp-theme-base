@@ -64,9 +64,13 @@
 					loop: true,
 					margin: 0,
 					autoplay: true,
-					autoplayTimeout: 7000
+					autoplayTimeout: 7000,
+					dots: false,
+					nav: false,
+					navText: ["  "," "],
 				});
 				*/
+				
 				/*
 				jQuery(".owl-01").owlCarousel({
 					loop: false,
