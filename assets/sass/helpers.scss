@@ -1,0 +1,46 @@
+.ls-none 
+{
+	list-style: none; 
+}
+.horizontal-list li
+{
+	float: left;
+}
+.ultra-thin 
+{
+	font-weight: 100;
+}
+.thin
+{
+	font-weight: 300;
+}
+.regular
+{
+	font-weight: 500;
+}
+.bold 
+{
+	font-weight: 700;
+}
+.ultra-bold, .bolder 
+{
+	font-weight: 900;
+}
+
+@for $i from 1 through 10
+{
+	.spacer-#{$i} 
+	{
+		height: $i + em;
+		clear: both;
+	}  
+}
+
+@for $i from 10 through 100
+{
+	.f#{$i} 
+	{ 
+	  	font-size: $i + px; 
+	}  
+}
+
