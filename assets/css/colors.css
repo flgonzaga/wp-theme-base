@@ -1,5 +1,14 @@
 /* Color: gray-light */
-.text-gray-light {
+.text-gray-light,
+.text-gray-light:hover,
+.text-gray-light:active,
+.text-gray-light:focus,
+.text-gray-light:visited,
+.text-gray-light *,
+.text-gray-light *:hover,
+.text-gray-light *:active,
+.text-gray-light *:focus,
+.text-gray-light *:visited {
   color: #f0f1f1;
 }
 
@@ -12,7 +21,16 @@
 }
 
 /* Color: gray-dark */
-.text-gray-dark {
+.text-gray-dark,
+.text-gray-dark:hover,
+.text-gray-dark:active,
+.text-gray-dark:focus,
+.text-gray-dark:visited,
+.text-gray-dark *,
+.text-gray-dark *:hover,
+.text-gray-dark *:active,
+.text-gray-dark *:focus,
+.text-gray-dark *:visited {
   color: #a2a2a2;
 }
 

@@ -5,7 +5,16 @@ $colors: (
 
 @each $key, $value in $colors {
     /* Color: #{$key} */
-    .text-#{$key} {
+    .text-#{$key}, 
+    .text-#{$key}:hover, 
+    .text-#{$key}:active, 
+    .text-#{$key}:focus, 
+    .text-#{$key}:visited,
+    .text-#{$key} *, 
+    .text-#{$key} *:hover, 
+    .text-#{$key} *:active, 
+    .text-#{$key} *:focus, 
+    .text-#{$key} *:visited { 
         color: $value;
     }
     .bg-#{$key} {
