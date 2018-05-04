@@ -4,6 +4,7 @@ $colors: (
 );
 
 @each $key, $value in $colors {
+    /* Color: #{$key} */
     .text-#{$key} {
         color: $value;
     }

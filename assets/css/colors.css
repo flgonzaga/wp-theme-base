@@ -1,23 +1,25 @@
+/* Color: gray-light */
 .text-gray-light {
-  	color: #f0f1f1;
+  color: #f0f1f1;
 }
 
 .bg-gray-light {
-  	background-color: #f0f1f1;
+  background-color: #f0f1f1;
 }
 
 .border-gray-light {
-  	border: #f0f1f1;
+  border: #f0f1f1;
 }
 
+/* Color: gray-dark */
 .text-gray-dark {
-  	color: #a2a2a2;
+  color: #a2a2a2;
 }
 
 .bg-gray-dark {
-  	background-color: #a2a2a2;
+  background-color: #a2a2a2;
 }
 
 .border-gray-dark {
-  	border: #a2a2a2;
+  border: #a2a2a2;
 }
