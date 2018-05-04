@@ -27,6 +27,16 @@
 	font-weight: 900;
 }
 
+/* border */
+@for $i from 1 through 5
+{
+	.border-#{$i} 
+	{
+		border: solid $i + px;
+	}  
+}
+
+/* spacer */
 @for $i from 1 through 10
 {
 	.spacer-#{$i} 
@@ -36,6 +46,7 @@
 	}  
 }
 
+/* font-size */
 @for $i from 10 through 100
 {
 	.f#{$i} 
@@ -44,6 +55,7 @@
 	}  
 }
 
+/* line-height */
 @for $i from 10 through 100
 {
 	.l#{$i} 

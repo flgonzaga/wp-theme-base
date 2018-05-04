@@ -6,8 +6,8 @@ Author: the Visualy team
 Author URI: http://visualy.com.br/
 */
 @import url('fonts.css');
-@import url('colors.css');
 @import url('helpers.css');
+@import url('colors.css');
 * { 
 	margin: 0;
 	padding: 0;

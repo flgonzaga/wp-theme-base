@@ -21,6 +21,6 @@ $colors: (
         background-color: $value;
     }
     .border-#{$key} {
-        border: $value;
+        border-color: $value;
     }
 }

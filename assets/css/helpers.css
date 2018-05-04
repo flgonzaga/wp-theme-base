@@ -26,6 +26,28 @@
   font-weight: 900;
 }
 
+/* border */
+.border-1 {
+  border: solid 1px;
+}
+
+.border-2 {
+  border: solid 2px;
+}
+
+.border-3 {
+  border: solid 3px;
+}
+
+.border-4 {
+  border: solid 4px;
+}
+
+.border-5 {
+  border: solid 5px;
+}
+
+/* spacer */
 .spacer-1 {
   height: 1em;
   clear: both;
@@ -76,6 +98,7 @@
   clear: both;
 }
 
+/* font-size */
 .f10 {
   font-size: 10px;
 }
@@ -440,6 +463,7 @@
   font-size: 100px;
 }
 
+/* line-height */
 .l10 {
   line-height: 10px;
 }
