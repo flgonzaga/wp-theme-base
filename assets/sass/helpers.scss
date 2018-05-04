@@ -44,3 +44,11 @@
 	}  
 }
 
+@for $i from 10 through 100
+{
+	.l#{$i} 
+	{ 
+	  	line-height: $i + px; 
+	}  
+}
+
