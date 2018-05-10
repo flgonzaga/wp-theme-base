@@ -1,4 +1,4 @@
-/* Color: gray-light */
+/* color: gray-light */
 .text-gray-light,
 .text-gray-light:hover,
 .text-gray-light:active,
@@ -20,7 +20,7 @@
   border-color: #f0f1f1;
 }
 
-/* Color: gray-dark */
+/* color: gray-dark */
 .text-gray-dark,
 .text-gray-dark:hover,
 .text-gray-dark:active,
@@ -31,13 +31,13 @@
 .text-gray-dark *:active,
 .text-gray-dark *:focus,
 .text-gray-dark *:visited {
-  color: #a2a2a2;
+  color: #757575;
 }
 
 .bg-gray-dark {
-  background-color: #a2a2a2;
+  background-color: #757575;
 }
 
 .border-gray-dark {
-  border-color: #a2a2a2;
+  border-color: #757575;
 }

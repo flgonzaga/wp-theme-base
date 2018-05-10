@@ -13,9 +13,9 @@
 				<div class="w-100">
 					<div class="container">
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								
-							</div><!-- /.col-12 -->
+							</div><!-- /.col -->
 						</div><!-- /.row -->
 					</div><!-- /.container -->
 				</div><!-- /.w-100 -->

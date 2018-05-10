@@ -1,10 +1,10 @@
 $colors: (
     'gray-light': #f0f1f1,
-    'gray-dark': #a2a2a2,
+    'gray-dark': #757575,
 );
 
 @each $key, $value in $colors {
-    /* Color: #{$key} */
+    /* color: #{$key} */
     .text-#{$key}, 
     .text-#{$key}:hover, 
     .text-#{$key}:active, 

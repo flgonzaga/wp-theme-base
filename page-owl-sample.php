@@ -10,24 +10,32 @@
 
 get_header(); ?>
 
-<div class="container">
+<div class="container-fluid p-0">
 	
-	<div class="row">
-		<div class="col">
-			<!-- BANNER	 -->
-			<div class="owl-banner owl-carousel owl-theme">
-				<a href="" class="item d-inline-block" style="background-image: url(http://via.placeholder.com/2560x690);"></a>
-			</div>
-		</div>
-		<!-- /.col -->
+	<!-- BANNER	 -->
+	<div class="owl-carousel owl-banner">
+		<a href="" class="item d-inline-block" style="background-image: url(http://via.placeholder.com/2560x690);"></a>
+		<a href="" class="item d-inline-block" style="background-image: url(http://via.placeholder.com/2560x690);"></a>
+		<a href="" class="item d-inline-block" style="background-image: url(http://via.placeholder.com/2560x690);"></a>
 	</div>
-	<!-- /.row -->
 
-	<div class="spacer-5"></div>
+</div>
+<!-- /.container -->
 
+<div class="spacer-5"></div>
+
+<div class="container">
 	<div class="row">
 		<!-- CAROUSEL -->
 		<div class="owl-01 owl-carousel owl-theme">
+			<div class="item">
+				<img src="http://via.placeholder.com/250x250" class="">
+			</div>
+			<!-- /.item -->
+			<div class="item">
+				<img src="http://via.placeholder.com/250x250" class="">
+			</div>
+			<!-- /.item -->
 			<div class="item">
 				<img src="http://via.placeholder.com/250x250" class="">
 			</div>
@@ -52,9 +60,9 @@ get_header(); ?>
 		<!-- /.owl-01.owl-theme -->
 	</div>
 	<!-- /.row -->
-
 </div>
 <!-- /.container -->
+
 <?php get_footer(); ?>
 <script type="text/javascript">
 	
@@ -66,8 +74,8 @@ get_header(); ?>
 			margin: 0,
 			autoplay: true,
 			autoplayTimeout: 7000,
-			dots: false,
-			nav: false,
+			dots: true,
+			nav: true,
 			navText: ["  "," "],
 		});
 		

@@ -26,6 +26,39 @@
   font-weight: 900;
 }
 
+/* background settings */
+.bg[class*=" bg-center"] {
+  background-position: center;
+}
+
+.bg[class*=" bg-top"] {
+  background-position: top;
+}
+
+.bg[class*=" bg-bottom"] {
+  background-position: bottom;
+}
+
+.bg[class*=" bg-left"] {
+  background-position: left;
+}
+
+.bg[class*=" bg-right"] {
+  background-position: right;
+}
+
+.bg[class*=" bg-cover"] {
+  background-size: cover;
+}
+
+.bg[class*=" bg-contain"] {
+  background-size: contain;
+}
+
+.bg[class*=" bg-norepeat"] {
+  background-repeat: no-repeat;
+}
+
 /* border */
 .border-1 {
   border: solid 1px;
@@ -98,7 +131,48 @@
   clear: both;
 }
 
-/* font-size */
+/* font-size responsive (recommended for titles) */
+.text-fluid-1 {
+  font-size: 1vh;
+}
+
+.text-fluid-2 {
+  font-size: 2vh;
+}
+
+.text-fluid-3 {
+  font-size: 3vh;
+}
+
+.text-fluid-4 {
+  font-size: 4vh;
+}
+
+.text-fluid-5 {
+  font-size: 5vh;
+}
+
+.text-fluid-6 {
+  font-size: 6vh;
+}
+
+.text-fluid-7 {
+  font-size: 7vh;
+}
+
+.text-fluid-8 {
+  font-size: 8vh;
+}
+
+.text-fluid-9 {
+  font-size: 9vh;
+}
+
+.text-fluid-10 {
+  font-size: 10vh;
+}
+
+/* font-size (recommended for medium and long texts) */
 .f10 {
   font-size: 10px;
 }
