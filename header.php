@@ -4,7 +4,7 @@
  *
  * Displays all of the <head> section and everything up till #main div
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 ?><!doctype html>

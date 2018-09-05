@@ -5,7 +5,7 @@
  * Contains footer content and the closing of the
  * #main div element.
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 ?>
@@ -29,7 +29,7 @@
 									</span><!-- /.copyright -->
 									<span class="company">
 										<a href="http://visualy.com.br/" target="_blank" class="text-white">
-											<span class="font-weight-bold text-white">Desenvolvimento</span> | Visualy Publicidade
+											<span class="font-weight-bold text-white">Desenvolvimento</span> | Pecege
 										</a>
 									</span><!-- /.company -->
 								</div><!-- /.w-100 -->

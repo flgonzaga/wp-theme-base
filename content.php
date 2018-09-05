@@ -4,7 +4,7 @@
  *
  * Used for both single and index/archive/author/catagory/search/tag.
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 ?>

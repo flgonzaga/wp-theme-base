@@ -2,7 +2,7 @@
 /**
  * The template for displaying a "No posts found" message.
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 ?>

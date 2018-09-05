@@ -2,7 +2,7 @@
 /**
  * The template for displaying Search Results pages.
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 

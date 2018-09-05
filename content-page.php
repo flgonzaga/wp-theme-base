@@ -2,7 +2,7 @@
 /**
  * The template used for displaying page content.
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 ?>

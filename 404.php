@@ -2,7 +2,7 @@
 /**
  * The template for displaying 404 pages (Not Found).
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 

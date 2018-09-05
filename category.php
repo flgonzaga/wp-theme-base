@@ -4,7 +4,7 @@
  *
  * @link http://codex.wordpress.org/Template_Hierarchy
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 

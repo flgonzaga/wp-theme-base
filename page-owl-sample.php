@@ -4,7 +4,7 @@
  *
  * The template for displaying the "Home" page.
  *
- * @package Visualy
+ * @package Pecege
  * @since 1.0
  */
 
